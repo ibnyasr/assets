@@ -1,1 +1,1 @@
-# assets
+some assets
